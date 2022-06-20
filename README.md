@@ -1,11 +1,17 @@
 Browser ZoomBot from WSL.
 
-To add:
-aws ec2 instance for deploy
+### Instructions
+1. Install dependencies or run `make dep`
+2. Enter sudo password.
+3. Run make.
 
-multiple classes. upsizing - for each loop on all meeting links
-recording using obs
-joining audio
+
+### To add:
+1. aws ec2 instance for deploy
+
+2. multiple classes. upsizing - for each loop on all meeting links
+3. recording using obs
+4. joining audio
 
 
 ### Dependencies:
